@@ -91,18 +91,19 @@
 			<scope>provided</scope>
 		</dependency>
 		
+		
 	</dependencies>
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.132.216.215:8081/repository/tesla/</url>
+	      <url>http://3.132.216.215:8081/repository/paypal-apps-proc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.132.216.215:8081/repository/tesla-snaphot/</url>
+	      <url>http://3.132.216.215:8081/repository/paypal-apps-proc/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
